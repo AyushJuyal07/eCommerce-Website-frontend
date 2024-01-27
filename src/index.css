@@ -2,7 +2,9 @@
 
 :root {
   --font-family: "Poppins", sans-serif;
-  --dark-blue: #0a1930;
+  --dark-blue: #7120a3; 
+  /* 0a1930 */
+
   --light-blue: #1f93ff;
 
   --color-white: #fff;
